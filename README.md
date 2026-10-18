@@ -2,10 +2,6 @@
 
 **A team of three AI detectives that hunts rogue AI agents inside a company, and keeps its entire brain (tasks, reasoning, findings and memory) in a FalkorDB graph.**
 
-Built solo for the WeMakeDevs **Graph Hacks** hackathon by [Your Name].
-
-🎥 Demo video: [paste link here] · 📝 Blog post: [paste link here]
-
 | Track | What this project does for it |
 |---|---|
 | **Connected Data** | Multi-hop OpenCypher traversals expose access that nobody granted directly: chains of trust between agents that end at a secret. |

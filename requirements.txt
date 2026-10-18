@@ -1,0 +1,7 @@
+# Project Cyber-Oversight: Rogue Agent Matrix
+# Needs Python 3.10 or newer. Install with:  pip install -r requirements.txt
+# (falkordb installs its own redis client automatically, so redis is not listed here.)
+falkordb>=1.0.10
+streamlit>=1.40.0
+pandas>=2.2.3
+google-genai>=1.0.0
